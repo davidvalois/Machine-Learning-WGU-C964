@@ -1,0 +1,33 @@
+FuelType,p,d,q,P,D,Q,s
+all coal products,1,1,1,1,0,1,12
+all fuels,0,1,2,1,0,1,12
+all renewables,1,1,1,1,0,2,12
+biogenic municipal solid waste,1,1,1,2,0,0,12
+biomass (BIO),0,1,2,1,0,1,12
+biomass (OB2),0,1,1,0,0,0,12
+biomass (OBW),0,1,2,2,0,0,12
+bituminous coal,1,1,1,1,0,1,12
+bituminous coal and synthetic coal,1,1,1,1,0,1,12
+"coal, excluding waste coal",1,1,1,1,0,1,12
+conventional hydroelectric,0,0,2,1,0,1,12
+distillate fuel oil,0,0,1,0,0,0,12
+fossil fuels,1,1,1,1,0,1,12
+landfill gas,1,0,1,1,0,1,12
+municiapl landfill gas,1,1,1,2,0,0,12
+natural gas,1,0,0,1,0,1,12
+natural gas & other gases,1,0,0,1,0,1,12
+nuclear,0,1,2,1,0,2,12
+onshore wind turbine,0,1,4,1,0,1,12
+other,0,1,1,1,0,1,12
+other renewables,0,1,1,0,0,0,12
+petroleum,1,0,0,0,0,0,12
+petroleum liquids,1,0,0,0,0,0,12
+renewable,1,1,2,1,0,1,12
+renewable waste products,1,1,1,2,0,0,12
+residual fuel oil,1,0,0,0,0,0,12
+solar,0,1,5,0,1,1,12
+solar photovoltaic,4,1,4,0,1,1,12
+subbituminous coal,0,0,1,0,0,1,12
+waste oil and other oils,1,0,0,0,0,0,12
+wind,1,1,3,1,0,1,12
+wood and wood wastes,0,1,2,1,0,1,12
