@@ -1,4 +1,4 @@
-# Machine Learning Capstone Project for WGU
+# Machine Learning - Computer Science Capstone Project, WGU C964 
 
 This project was completed as a Google Colab notebook, EnergyAnalysis.ipynb.  The CSV data files are referenced to a shared Google Drive folder: /content/drive/MyDrive/WGU-C964/
 
